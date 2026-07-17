@@ -1,0 +1,4 @@
+interface:
+  display_name: "体验设计策略推导 / Derive Experience Design"
+  short_description: "体验策略推导 / Derive UX strategy from problems or visuals"
+  default_prompt: "使用 $derive-experience-design 分析这个问题或设计图，输出中英文体验设计策略、设计点与汇报话术。 Use $derive-experience-design to produce bilingual experience strategies, design points, and presentation wording."
