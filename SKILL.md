@@ -118,7 +118,9 @@ For multi-screen flows, organize design points around one primary user journey r
 6. **边界与取舍 / Tradeoffs and boundaries**：说明设计失效或沦为装饰的条件。
 7. **汇报话术 / Presentation wording**：一段可以直接口述的表达。
 
-用户准备报告、作品集或 PPT 时，读取 [输出模板 / output patterns](references/output-patterns.md)。
+用户准备报告、作品集或 PPT 时，读取 [输出模板 / output patterns](references/output-patterns.md)。若产物是 16:9 HTML 决策汇报 deck，把本 skill 推导出的策略与设计点交给 [report-deck-skill](https://github.com/Vinniechenyu/report-deck-skill) 落成页面——它的 `references/design-argument.md` 已按本 skill 的五层阶梯与四段式句式对接。
+
+When the deliverable is a 16:9 HTML decision deck, hand the strategy and design points derived here to [report-deck-skill](https://github.com/Vinniechenyu/report-deck-skill) for page construction—its `references/design-argument.md` already maps to this skill's five-layer ladder and four-part sentence.
 
 ## 质量检查 / Quality check
 

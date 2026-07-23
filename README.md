@@ -18,6 +18,11 @@ It is neither a fixed checklist of UX principles nor a tool for generic claims s
 不适用于像素级视觉还原、没有真实流程证据的完整可用性审计、替代用户研究，或凭静态截图宣称无障碍合规。  
 It is not intended for pixel-perfect visual reproduction, full usability audits without live-flow evidence, replacing user research, or claiming accessibility compliance from static screenshots.
 
+### 搭配使用 / Pairs with
+
+本 skill 负责「想清楚」，[report-deck-skill](https://github.com/Vinniechenyu/report-deck-skill) 负责「讲出来」：把这里推导出的体验策略与设计点交给它，落成 16:9 决策汇报 deck。两者术语一致，焊缝见 report-deck 的 `references/design-argument.md`。  
+This skill does the thinking; [report-deck-skill](https://github.com/Vinniechenyu/report-deck-skill) does the telling—hand it the strategy and design points derived here to build a 16:9 decision deck. The two share terminology; the seam lives in report-deck's `references/design-argument.md`.
+
 ## 核心能力 / What it provides
 
 ### 1. 从模糊问题建立因果链 / Causal reasoning from fuzzy problems
